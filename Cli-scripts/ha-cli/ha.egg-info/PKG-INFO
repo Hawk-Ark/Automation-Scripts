@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: ha
+Version: 1.0.0
+Summary: A simple Home Assistant YAML script generator CLI.
+Home-page: https://github.com/yourusername/ha-cli
+Author: Your Name
+Requires-Python: >=3.6

@@ -1,0 +1,12 @@
+entity_id: Automation
+script:
+  alias: sample script
+  sequence:
+  - service: script success
+    target:
+      entity_id: script is success
+  - delay: 00:00:00
+  - service: script unsuccessful
+    target:
+      entity_id: script failure
+service: Hawk Ark
